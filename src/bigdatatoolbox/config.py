@@ -27,7 +27,7 @@ config_dict = dict(
 
     # Analytics files
     RUN_TABLON="run_tablon",
-    STORAGE_ACCOUNT="sacursodecide",
+    STORAGE_ACCOUNT="dataarquitectazuremljrg",
     RAW_BLOB_STORAGE="raw"
 
 )
